@@ -1,0 +1,8 @@
+baseurl: '/lori'
+sitename: 'Lori Framework'
+exclude: [
+  '_layouts',
+  'README.md',
+  'config.yml',
+  '__assets'
+];
